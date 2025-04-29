@@ -16,6 +16,12 @@ class Study{
     }
 
 }
+class Course{
+    void display(){
+        System.out.println("semester 1:BDA=23");
+        System.out.println("semester 2:DevOPS=30");
+    }
+}
 
 public class Student {
     public static void main(String[] args) {
